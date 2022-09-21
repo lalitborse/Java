@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class AppointmentBooking {
+	//added by vikram
 	private static final ArrayList<String> patientNameBooking = null;
 	private static final Object password = null;
 	ArrayList<String> doctorName=new ArrayList<String>();
